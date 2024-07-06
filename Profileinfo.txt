@@ -1,0 +1,18 @@
+{'display_name': 'Reuben'
+ 'external_urls': {'spotify': 'https://open.spotify.com/user/qf87uo3rlrtsb23js8ehboico'}
+ 'href': 'https://api.spotify.com/v1/users/qf87uo3rlrtsb23js8ehboico'
+ 'id': 'qf87uo3rlrtsb23js8ehboico'
+ 'images': [{'url': 'https://i.scdn.co/image/ab67757000003b82963c529cddd678572fd23329'
+ 'height': 64
+ 'width': 64}
+ {'url': 'https://i.scdn.co/image/ab6775700000ee85963c529cddd678572fd23329'
+ 'height': 300
+ 'width': 300}]
+ 'type': 'user'
+ 'uri': 'spotify:user:qf87uo3rlrtsb23js8ehboico'
+ 'followers': {'href': None
+ 'total': 15}
+ 'country': 'GB'
+ 'product': 'premium'
+ 'explicit_content': {'filter_enabled': False
+ 'filter_locked': False}}
